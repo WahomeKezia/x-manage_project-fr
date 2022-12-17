@@ -1,0 +1,11 @@
+.root {
+  object-fit: cover;
+  max-width: 100%;
+  color: #32197a;
+  transform: rotate(-180deg) skew(0.057295760414500616deg, 0deg);
+  width: 67px;
+  height: 24px;
+  display: block;
+  transform-origin: top left;
+  position: relative;
+}
